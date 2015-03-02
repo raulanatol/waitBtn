@@ -1,0 +1,10 @@
+{
+  "name": "waitBtn",
+  "title": "Wait button",
+  "author": "@raulanatol - raul@natol.es",
+  "description": "Buttons with spinner and double click prevent",
+  "main": "dist/waitBtn.min.js",
+  "repository": {
+    "type": "git"
+  }
+}

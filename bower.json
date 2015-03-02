@@ -1,0 +1,27 @@
+{
+  "name": "waitBtn",
+  "version": "0.0.1",
+  "main": "src/wait.btn.js",
+  "authors": [
+    "raul@natol.es"
+  ],
+  "description": "Buttons with spinner and double click prevent",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "jquery"
+  ],
+  "license": "MIT",
+  "homepage": "http://natol.es",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
