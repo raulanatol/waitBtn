@@ -1,3 +1,2 @@
 
-[waitBtn][site] - Buttons with spinner
-================================
+waitBtn - Buttons with spinner and double click prevent
