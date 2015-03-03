@@ -1,2 +1,10 @@
 
-waitBtn - Buttons with spinner and double click prevent
+waitBtn - Buttons with spinner
+================================
+
+To Generate distribution execute:
+
+```
+grunt
+```
+
