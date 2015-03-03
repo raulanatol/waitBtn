@@ -1,3 +1,10 @@
 
-[waitBtn][site] - Buttons with spinner
+waitBtn - Buttons with spinner
 ================================
+
+To Generate distribution execute:
+
+```
+grunt
+```
+
